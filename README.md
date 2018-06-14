@@ -5,7 +5,7 @@ This program takes what is currently copied to the users clipboard and uses regu
 
 ## How to use
 * Download the python application
-* Copy any text
+* Copy any text to your clipboard
 * Run informationRedactor.py in Command Prompt
 * If credit card numbers exist, it will notify you that the new numbers have been copied to clipboard and will show the redacted versions of the numbers
 
